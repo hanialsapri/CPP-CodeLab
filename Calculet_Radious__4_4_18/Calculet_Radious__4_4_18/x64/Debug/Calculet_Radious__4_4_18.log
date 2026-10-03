@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\c++\Calculet_Radious__4_4_18\Calculet_Radious__4_4_18\Source.cpp(15,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Calculet_Radious__4_4_18.vcxproj -> D:\c++\Calculet_Radious__4_4_18\x64\Debug\Calculet_Radious__4_4_18.exe

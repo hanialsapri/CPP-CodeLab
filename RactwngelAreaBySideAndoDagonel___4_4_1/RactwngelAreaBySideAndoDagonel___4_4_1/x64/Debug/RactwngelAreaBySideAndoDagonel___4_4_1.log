@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\c++\RactwngelAreaBySideAndoDagonel___4_4_1\RactwngelAreaBySideAndoDagonel___4_4_1\Source.cpp(18,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\c++\RactwngelAreaBySideAndoDagonel___4_4_1\RactwngelAreaBySideAndoDagonel___4_4_1\Source.cpp(19,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  RactwngelAreaBySideAndoDagonel___4_4_1.vcxproj -> D:\c++\RactwngelAreaBySideAndoDagonel___4_4_1\x64\Debug\RactwngelAreaBySideAndoDagonel___4_4_1.exe
