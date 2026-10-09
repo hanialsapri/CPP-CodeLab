@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\c++\Circle circumference__4_5__21\Circle circumference__4_5__21\Source.cpp(15,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\c++\Circle circumference__4_5__21\Circle circumference__4_5__21\Source.cpp(16,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Circle circumference__4_5__21.vcxproj -> D:\c++\Circle circumference__4_5__21\x64\Debug\Circle circumference__4_5__21.exe
