@@ -4,7 +4,7 @@ using namespace std;
 void ReadNumber(int& Mark1, int& Mark2)
 {
 
-
+    cout<<"Welcome to my humble program."<<endl;
 	cout << " please Enter tow number \n";
 	cout << " please Enter number of one    :    ";
 	cin >> Mark1;
