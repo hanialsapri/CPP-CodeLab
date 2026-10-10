@@ -5,6 +5,8 @@ using namespace std;
 int ReadNumber()
 {
 	int number;
+
+	cout <<   "Welcome to my humble program"<<endl;
 	cout << "please enter a number : ";
 	cin >> number;
 	return number;
